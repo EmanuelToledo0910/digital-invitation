@@ -14,8 +14,8 @@ import { HeaderSection } from "./sections/header-section"
               <HeaderSection />
               <EventDetailsSection />
               <LocationSection />
-              <PrePartyPhotosSection />
-              <PersonalMessageSection />
+              {/* <PrePartyPhotosSection /> */}
+              {/* <PersonalMessageSection /> */}
               <TimelinePhotosSection />
             </div>
           </div>

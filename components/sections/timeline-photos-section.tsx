@@ -13,6 +13,11 @@ export function TimelinePhotosSection() {
       aspectRatio: "3/2" as const,
     },
     {
+      src: "/images/preparativos/preparativos-1.jpg", 
+      alt: "Preparativos 1",
+      aspectRatio: "3/2" as const,
+    },
+    {
       src: "/images/timeline/timeline-3.jpg", // Reemplaza con la foto de 3 años
       alt: "Foto de 3 años",
       aspectRatio: "3/2" as const,
@@ -20,6 +25,11 @@ export function TimelinePhotosSection() {
     {
       src: "/images/timeline/timeline-4.jpg", // Reemplaza con la foto de 4 años
       alt: "Foto de 4 años",
+      aspectRatio: "3/2" as const,
+    },
+    {
+      src: "/images/preparativos/preparativos-3.jpg", 
+      alt: "Preparativos 3",
       aspectRatio: "3/2" as const,
     },
     {
@@ -33,6 +43,11 @@ export function TimelinePhotosSection() {
       aspectRatio: "3/2" as const,
     },
     {
+      src: "/images/preparativos/preparativos-4.jpg", 
+      alt: "Preparativos 4",
+      aspectRatio: "3/2" as const,
+    },
+    {
       src: "/images/timeline/timeline-7.jpg", // Reemplaza con la foto de 7 años
       alt: "Foto de 7 años",
       aspectRatio: "3/2" as const,
@@ -40,6 +55,11 @@ export function TimelinePhotosSection() {
     {
       src: "/images/timeline/timeline-8.jpg", // Reemplaza con la foto de 8 años
       alt: "Foto de 8 años",
+      aspectRatio: "3/2" as const,
+    },
+    {
+      src: "/images/preparativos/preparativos-10.jpg", 
+      alt: "Preparativos 10",
       aspectRatio: "3/2" as const,
     },
     {
@@ -53,15 +73,20 @@ export function TimelinePhotosSection() {
       aspectRatio: "3/2" as const,
     },
     {
-      src: "/images/timeline/timeline-11.jpg", // Reemplaza con la foto de 11 años
-      alt: "Foto de 11 años",
+      src: "/images/preparativos/preparativos-11.jpg", 
+      alt: "Preparativos 11",
       aspectRatio: "3/2" as const,
     },
     {
-      src: "/images/timeline/timeline-12.jpg", // Reemplaza con la foto de 12 años
-      alt: "Foto de 12 años",
+      src: "/images/timeline/timeline-11.jpg", // Reemplaza con la foto de 11 años
+      alt: "Foto de 11 años",
       aspectRatio: "3/2" as const,
-    },
+    }, 
+    // {
+    //   src: "/images/timeline/timeline-12.jpg", // Reemplaza con la foto de 12 años
+    //   alt: "Foto de 12 años",
+    //   aspectRatio: "3/2" as const,
+    // },
     // {
     //   src: "/images/timeline/13-anos.jpg", // Reemplaza con la foto de 13 años
     //   alt: "Foto de 13 años",
