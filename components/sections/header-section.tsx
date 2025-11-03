@@ -49,7 +49,7 @@ export function HeaderSection() {
             <div className="w-full h-px bg-secondary animate-expand"></div>
             <div className="text-3xl text-secondary tracking-wider animate-fade-in">MIS 15 AÑOS</div>
             <div className="text-2xl text-secondary leading-relaxed px-2 animate-fade-in">
-              Te espero para compartir la alegría de esa noche que será para mí mágica, inolvidable y única.
+              Te espero para compartir la alegría de esa noche que será, para mí, mágica, inolvidable y única.
             </div>
           </div>
         </div>
