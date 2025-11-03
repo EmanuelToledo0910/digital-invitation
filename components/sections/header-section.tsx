@@ -49,7 +49,7 @@ export function HeaderSection() {
             <div className="w-full h-px bg-secondary animate-expand"></div>
             <div className="text-3xl text-secondary tracking-wider animate-fade-in">MIS 15 AÑOS</div>
             <div className="text-2xl text-secondary leading-relaxed px-2 animate-fade-in">
-              Te espero para compartir la alegría de esa noche que será, para mí, mágica, inolvidable y única.
+              No prometo una noche perfecta, pero si una noche inolvidable, te espero para festejar mi cumple como se debe
             </div>
           </div>
         </div>
@@ -86,7 +86,7 @@ export function HeaderSection() {
           <div className="text-3xl text-muted-foreground tracking-wider animate-fade-in">MIS 15 AÑOS</div>
 
           <div className="text-2xl text-muted-foreground leading-relaxed px-4 animate-fade-in">
-            Te espero para compartir la alegría de esa noche que será para mí mágica, inolvidable y única.
+              No prometo una noche perfecta, pero si una noche inolvidable, te espero para festejar mi cumple como se debe
           </div>
 
         </div>
