@@ -54,5 +54,5 @@ export function PrePartyPhotosSection() {
     },
   ]
 
-  return <PhotoCarouselSection title="Algunas postales previas a la fiesta" photos={photos} />
+  return <PhotoCarouselSection title="Postales previas" photos={photos} />
 }

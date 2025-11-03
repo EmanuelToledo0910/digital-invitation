@@ -79,5 +79,5 @@ export function TimelinePhotosSection() {
     // },
   ]
 
-  return <PhotoCarouselSection title="Un viaje al pasado" photos={photos} />
+  return <PhotoCarouselSection title="Viaje al pasado" photos={photos} />
 }
