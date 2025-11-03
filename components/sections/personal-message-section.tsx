@@ -2,7 +2,7 @@ export function PersonalMessageSection() {
   return (
     <section className="bg-muted text-muted-foreground p-8">
       <div className="max-w-3xl mx-auto text-center space-y-6">
-        <h2 className="text-3xl font-bold gold-accent">Un Mensaje Especial 🤍</h2>
+        <h2 className="text-3xl font-bold gold-accent">Un Mensaje Especial ♡</h2>
 
         <div className="bg-card p-6 rounded-lg shadow-md">
           <p className="text-lg leading-relaxed text-card-foreground italic">
