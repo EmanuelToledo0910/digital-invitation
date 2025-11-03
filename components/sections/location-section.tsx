@@ -55,8 +55,7 @@ export default function LocationSection() {
               <button
                 onClick={() =>
                   window.open(
-                    "https://open.spotify.com/playlist/2NG6LrRFEKNxLPhY0XET8n?si=de98c109ea8c468f",
-                    "_blank"
+                    "https://open.spotify.com/playlist/2NG6LrRFEKNxLPhY0XET8n?si=rvlr6aj3SD2WmPYyWSGjaA&pt=59a1694f0ff64ffc9976de0c6088c795&pi=ujKdnJtIR1qhL"
                   )
                 }
                 className={buttonClass}
